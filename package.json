@@ -1,12 +1,12 @@
 {
- "engines": {
-   "node": "20.17.0"
+  "engines": {
+    "node": "20.17.0"
   },
   "name": "full-stack",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "keywords": [],
   "author": "",
